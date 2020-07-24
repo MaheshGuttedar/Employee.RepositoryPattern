@@ -1,0 +1,9 @@
+C:\Users\DELL\Downloads\RepositoryPattern-master\RepositoryPattern-master\Code.RepositoryPattern\Code.RepositoryPattern.Model\bin\Debug\netcoreapp2.2\Employee.RepositoryPattern.Model.deps.json
+C:\Users\DELL\Downloads\RepositoryPattern-master\RepositoryPattern-master\Code.RepositoryPattern\Code.RepositoryPattern.Model\bin\Debug\netcoreapp2.2\Employee.RepositoryPattern.Model.dll
+C:\Users\DELL\Downloads\RepositoryPattern-master\RepositoryPattern-master\Code.RepositoryPattern\Code.RepositoryPattern.Model\bin\Debug\netcoreapp2.2\Employee.RepositoryPattern.Model.pdb
+C:\Users\DELL\Downloads\RepositoryPattern-master\RepositoryPattern-master\Code.RepositoryPattern\Code.RepositoryPattern.Model\obj\Debug\netcoreapp2.2\Employee.RepositoryPattern.Model.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\RepositoryPattern-master\RepositoryPattern-master\Code.RepositoryPattern\Code.RepositoryPattern.Model\obj\Debug\netcoreapp2.2\Employee.RepositoryPattern.Model.AssemblyInfo.cs
+C:\Users\DELL\Downloads\RepositoryPattern-master\RepositoryPattern-master\Code.RepositoryPattern\Code.RepositoryPattern.Model\obj\Debug\netcoreapp2.2\Employee.RepositoryPattern.Model.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\RepositoryPattern-master\RepositoryPattern-master\Code.RepositoryPattern\Code.RepositoryPattern.Model\obj\Debug\netcoreapp2.2\Employee.RepositoryPattern.Model.dll
+C:\Users\DELL\Downloads\RepositoryPattern-master\RepositoryPattern-master\Code.RepositoryPattern\Code.RepositoryPattern.Model\obj\Debug\netcoreapp2.2\Employee.RepositoryPattern.Model.pdb
+C:\Users\DELL\Downloads\RepositoryPattern-master\RepositoryPattern-master\Code.RepositoryPattern\Code.RepositoryPattern.Model\obj\Debug\netcoreapp2.2\Employee.RepositoryPattern.Model.csprojAssemblyReference.cache
